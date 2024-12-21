@@ -1,0 +1,19 @@
+
+
+
+.container {
+    margin-top: 7vh;
+}
+
+
+.col {
+    padding: 1rem;
+    background-color: rgb(163, 152, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color: white;
+    height: 20vh;
+}
+
+.background {
+    background-color: antiquewhite;
+}
