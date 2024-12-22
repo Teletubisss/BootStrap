@@ -46,3 +46,7 @@
     margin: 0 auto;
     text-align: center;
 }
+
+.height {
+    height: 10vh;
+}
